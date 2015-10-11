@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif);
 body {
 	text-align: center;
 	background: url("https://images.unsplash.com/photo-1431932441182-250651654c23?q=80&fm=jpg&s=dbb6cf32be2308d75f305480c96dcff8");
@@ -14,19 +14,17 @@ title {
 	font-size: 30px;
 	line-height: 1.5em;
 	margin: 2em;
-	font-family: 'Roboto 700';
+	font-family: 'Droid Serif';
 }
 h1 {
 	font-size: 24px;
 	line-height: 1.5em;
 	margin: 2em;
-	font-family: 'Roboto 400';
 }
 p {
 	font-size: 18px;
 	line-height: 1.5em;
 	margin: 2em;
-	font-family: 'Roboto 400';
 	font-style: italic;
 }
 a {
