@@ -1,6 +1,8 @@
 body {
 	text-align: center;
 	background: url("https://images.unsplash.com/photo-1422976280096-9126a41f9e2a?q=80&fm=jpg&s=c0d370e3be94210c5e682cd40f5b9faa");
+	background-position: center;
+	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
 	font-family: helvetica;
