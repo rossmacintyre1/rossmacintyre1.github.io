@@ -1,13 +1,17 @@
 body {
 	text-align: center;
+	background: url("https://images.unsplash.com/photo-1422976280096-9126a41f9e2a?q=80&fm=jpg&s=c0d370e3be94210c5e682cd40f5b9faa");
+	background-size: cover;
+	color: #fff;
+	font-family: helvetica;
 }
-h1, h2 {
-	font-family: Helvetica, sans-serif;
-	font-weight: 700;
+hr {
+	width: 200px;
 }
 h1 {
 	font-size: 24px;
 }
 p {
+	font-size: 22px;
 	font-style: italic;
 }
