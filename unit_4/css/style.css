@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+
+body {
+	text-align: center;
+	background: url("https://images.unsplash.com/photo-1431932441182-250651654c23?q=80&fm=jpg&s=dbb6cf32be2308d75f305480c96dcff8");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	background-color: #000;
+	font-family: 'Roboto'; sans-serif;
+}
+h1 {
+	font-size: 24px;
+	line-height: 1.5em;
+	margin: 2em;
+	font-family: 'Roboto 700';
+}
+p {
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+	font-family: 'Roboto 400';
+	font-style: italic;
+}
+a {
+    color: #fff;
+}
+hr {
+	width: 400px;
+}
