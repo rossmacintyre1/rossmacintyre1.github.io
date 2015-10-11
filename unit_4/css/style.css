@@ -9,14 +9,14 @@ body {
 	color: #fff;
 	background-color: #000;
 }
-title {
-	font-size: 70px;
+h1 {
+	font-size: 30px;
 	line-height: 1.5em;
 	margin: 2em;
 	font-family: 'Droid Serif', sans-serif;
 }
-h1 {
-	font-size: 22px;
+h2 {
+	font-size: 25px;
 	line-height: 1.5em;
 	margin: 2em;
 	font-family: Roboto, sans-serif;
