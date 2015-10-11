@@ -8,24 +8,25 @@ body {
 	background-size: cover;
 	color: #fff;
 	background-color: #000;
-	font-family: 'Roboto'; sans-serif;
 }
 title {
 	font-size: 30px;
 	line-height: 1.5em;
 	margin: 2em;
-	font-family: 'Droid Serif';
+	font-family: 'Droid Serif', sans-serif;
 }
 h1 {
 	font-size: 24px;
 	line-height: 1.5em;
 	margin: 2em;
+	font-family: Roboto, sans-serif;
 }
 p {
 	font-size: 18px;
 	line-height: 1.5em;
 	margin: 2em;
 	font-style: italic;
+	font-family: Roboto, sans-serif;
 }
 a {
     color: #fff;
