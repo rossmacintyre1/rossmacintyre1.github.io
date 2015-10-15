@@ -32,6 +32,8 @@ li {
     display: inline;
 }
 a {
+    display: block;
+    width: 60px;
     color: #fff;
 }
 hr {
