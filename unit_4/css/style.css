@@ -28,6 +28,9 @@ p {
 	font-style: italic;
 	font-family: Roboto, sans-serif;
 }
+li {
+    display: inline;
+}
 a {
     color: #fff;
 }
