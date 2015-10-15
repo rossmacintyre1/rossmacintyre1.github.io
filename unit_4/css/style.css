@@ -1,13 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-	text-align: center;
+	color: #fff;
+	background-color: #000;
+}
+section#intro {
 	background: url("https://images.unsplash.com/photo-1431932441182-250651654c23?q=80&fm=jpg&s=dbb6cf32be2308d75f305480c96dcff8");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	color: #fff;
-	background-color: #000;
 }
 h1 {
 	font-size: 30px;
