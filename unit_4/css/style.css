@@ -29,7 +29,7 @@ p {
 	font-family: Roboto, sans-serif;
 }
 li {
-    display: inline;
+    float: center;
 }
 a {
     display: block;
