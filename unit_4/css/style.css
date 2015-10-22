@@ -6,7 +6,8 @@ body {
 	background-color: #000;
 }
 section#splash {
-	background-color: blue;
+	<img src="guy_dog_laptop" alt="guy with a dog and laptop">
+	<text-align: center; 
 }
 section#about {
 	background-color: blue;
