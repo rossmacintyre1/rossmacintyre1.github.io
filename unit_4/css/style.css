@@ -4,25 +4,37 @@
 body {
 	color: #fff;
 	background-color: #000;
+	font-family: 'Droid Serif', sans-serif;
+	font-size: 18px;
 }
 section#splash {
-	<img src="guy_dog_laptop" alt="guy with a dog and laptop">
-	<text-align: center; 
+	background-image: url("https://images.unsplash.com/uploads/14120938606568dde6e2b/c9e42240?q=80&fm=jpg&s=4a423cc155668e10492e68fffbbb5d9a");
+	text-align: center; 
 }
 section#about {
-	background-color: blue;
+	background-color: white;
+	font
+}
+section#world {
+
+}
+
+
+
+
+
+h2, p {
+	font-family: Roboto, sans-serif;
 }
 h1 {
-	font-size: 30px;
+	font-size: 2em;
 	line-height: 1.5em;
 	margin: 2em;
-	font-family: 'Droid Serif', sans-serif;
 }
 h2 {
-	font-size: 25px;
+	font-size: 1.5em;
 	line-height: 1.5em;
 	margin: 2em;
-	font-family: Roboto, sans-serif;
 }
 p {
 	font-size: 18px;
