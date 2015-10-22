@@ -9,20 +9,18 @@ body {
 }
 section#splash {
 	background-image: url("https://images.unsplash.com/uploads/14120938606568dde6e2b/c9e42240?q=80&fm=jpg&s=4a423cc155668e10492e68fffbbb5d9a");
+	background-size: cover;
 	text-align: center; 
 }
 section#about {
 	background-color: white;
-	font
+	text-align: center; 
+
 }
 section#world {
-
+	background-image: url("https://images.unsplash.com/12/sky.JPG?q=80&fm=jpg&s=467e67f1b4894f47901ea731905e1973");
+	text-align: center; 
 }
-
-
-
-
-
 h2, p {
 	font-family: Roboto, sans-serif;
 }
