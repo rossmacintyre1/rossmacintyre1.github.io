@@ -11,6 +11,7 @@ section#splash {
 	background-image: url("https://images.unsplash.com/uploads/14120938606568dde6e2b/c9e42240?q=80&fm=jpg&s=4a423cc155668e10492e68fffbbb5d9a");
 	background-size: cover;
 	text-align: center; 
+	color: #000;
 }
 section#about {
 	background-color: white;
