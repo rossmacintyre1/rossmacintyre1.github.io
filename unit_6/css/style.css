@@ -1,7 +1,7 @@
 body {
 	font-size: 18px;
 	font-family: 'Open Sans', sans-serif;
-	background: url("https://images.unsplash.com/photo-1423012373122-fff0a5d28cc9?q=80&fm=jpg&s=b260e966a8a8dd12e21c78105466e1ed");
+	background: url();
   	background-size: cover;
 
  nav {
@@ -14,6 +14,18 @@ body {
   color: #000000;
   margin: 1.8em;
   display: inline-block;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+  	width: 480px;
+} 
+
+#hero {
+display: block;
+width: 100%;
+margin: 0;
 }
 
 ul {
