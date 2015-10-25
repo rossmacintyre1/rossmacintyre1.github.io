@@ -1,8 +1,6 @@
 body {
 	font-size: 18px;
 	font-family: 'Open Sans', sans-serif;
-	background: url();
-  	background-size: cover;
 
  nav {
   font-size:1.8em;
@@ -14,12 +12,6 @@ body {
   color: #000000;
   margin: 1.8em;
   display: inline-block;
-}
-
-#hero {
-display: block;
-width: 100%;
-margin: 0;
 }
 
 ul {
