@@ -1,18 +1,42 @@
 body {
 	font-size: 18px;
 	font-family: 'Open Sans', sans-serif;
+  background: url("https://images.unsplash.com/photo-1423012373122-fff0a5d28cc9?q=80&fm=jpg&s=b260e966a8a8dd12e21c78105466e1ed");
+  background-size: cover;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 0.1em;
+  clear: both;
+}
+
+#intro {
+  clear: both;
+  text-align: center;
+  color: #fff;
+  padding: 1em 0em 1em 0em;
+  background: #000;  
+}
+
+#services {
+  clear: both;
+  margin-top: 14em;
+  background: #A8A8A8;
 }
 
  nav {
-  font-size:1.8em;
-  float: right;
+  font-size:1.5em;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
  }
 
  nav a {
   text-decoration: none;
   color: #000000;
   margin: 1.8em;
-  display: inline-block;
 }
 
 ul {
@@ -23,8 +47,10 @@ ul {
 
 li {
   float: left;
-  width: 100%;
-  height:6em;
+  width: 20%;
+  margin-right: 2%;
+  margin-left: 2%;
+  height: 6em;
   outline: 3px solid #222;
   text-align: center;
   line-height: 6em;
